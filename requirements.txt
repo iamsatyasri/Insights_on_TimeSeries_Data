@@ -2,4 +2,5 @@ streamlit
 pandas
 prophet
 plotly
+google.generativeai
 openai
